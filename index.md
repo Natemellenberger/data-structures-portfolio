@@ -1,5 +1,5 @@
 # Nate Mellenberger
-Data Science Student  
+Sports Analytics Student  
 UNC Charlotte
 ## About Me
 I am a Sports analytics enthusiast focused on using data, statistics, and technology to better understand player performance, team strategy, and the game itself. Building projects and sharpening my skills in sports data analysis.
