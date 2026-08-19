@@ -1,6 +1,6 @@
 # Blog 1 
 What is Data Science to Me?
-I am a undergraduate student at the University of North Carolina at Charlotte studying sports analytics.
+I am a undergraduate student at the University of North Carolina at Charlotte studying sports analytics. 
 
 Data science is useful because it can help us understand patterns in the world, especially when those patterns involve people and society. We can use data to study things like education, health, sports, money, behavior, and many other topics. Looking at data can help us notice trends that may be hard to see otherwise. It can also help people make better decisions and understand why certain things may be happening.
 
