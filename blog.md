@@ -1,6 +1,7 @@
 # Blog
 Throughout this course, I will write posts about data science topics I am interested in.
 ## Blog 1
+[Blog1](blog/blog1.md)
 Data science is useful because it can help us understand patterns in the world, especially when those patterns involve people and society. We can use data to study things like education, health, sports, money, behavior, and many other topics. Looking at data can help us notice trends that may be hard to see otherwise. It can also help people make better decisions and understand why certain things may be happening.
 
 There are also good reasons to model social topics and people. A lot of important problems involve people, so using data can help us learn more about those problems. For example, data can show differences between groups, changes over time, or common behaviors. It can also help organizations decide where more help or resources may be needed. At the same time, we have to remember that the data represents real people, not just numbers.
