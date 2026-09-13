@@ -1,3 +1,7 @@
+[Home](index.md) | [Projects](projects.md) | [Blog](blog.md)
+
+---
+
 # Nate Mellenberger
 Sports Analytics Student  
 UNC Charlotte
