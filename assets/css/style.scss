@@ -63,3 +63,37 @@ hr {
   border-top: 2px solid #005035;
   margin: 25px 0;
 }
+
+/* Featured project card */
+.project-card {
+  background: #f7f9f8;
+  border-left: 5px solid #005035;
+  padding: 24px;
+  margin: 20px 0 35px 0;
+  border-radius: 10px;
+}
+
+.project-card h3 {
+  color: #005035 !important;
+  margin-top: 0;
+}
+
+.project-card p {
+  line-height: 1.6;
+}
+
+.project-card a {
+  display: inline-block;
+  margin-top: 10px;
+  background: #005035;
+  color: white !important;
+  padding: 10px 16px;
+  border-radius: 7px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.project-card a:hover {
+  background: #003d29;
+}
+
