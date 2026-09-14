@@ -23,7 +23,7 @@ In the future, I hope to continue gaining experience in sports analytics, scouti
 
 ## Featured Project
 
-<div class="project-card">
+<div class="project-card"> markdown="1">
 
 ### College Football Recruiting and Team Performance
 
@@ -31,7 +31,7 @@ In the future, I hope to continue gaining experience in sports analytics, scouti
 
 This project examines the relationship between recruiting class rankings and season wins for FBS teams from 2021–2025 using CollegeFootballData API data.
 
-**Skills:** Python · pandas · API Data Collection · Data Cleaning · Data Visualization · Statistical Analysis
+**Skills:** Python · pandas · API Data Collection · Data Cleaning · Data Visualization
 
 [View Project](projects.md)
 
