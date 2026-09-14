@@ -34,7 +34,7 @@ In the future, I hope to continue gaining experience in sports analytics, scouti
 
 <p><strong>Skills:</strong> Python · pandas · API Data Collection · Data Cleaning · Data Visualization</p>
 
-<a href="projects.html">View Project</a>
+<a href="college-football-project.html">View Project</a>
 
 </div>
 
