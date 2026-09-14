@@ -21,7 +21,6 @@ This portfolio documents my growth as I continue learning more about data scienc
 
 In the future, I hope to continue gaining experience in sports analytics, scouting, and performance analysis while developing the technical skills needed to contribute to a professional or collegiate sports organization.
 
-## Featured Project
 
 ## Featured Project
 
