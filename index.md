@@ -37,10 +37,4 @@ This project examines the relationship between recruiting class rankings and sea
 
 </div>
 
-## Connect With Me
-[LinkedIn](https://www.linkedin.com/in/nathan-mellenberger-164b28352/)
-[View My Resume](Nate_Mellenberger_Resume.pdf)
-## Portfolio
-- [Blog](blog.md)
-- [Projects](projects.md)
 
