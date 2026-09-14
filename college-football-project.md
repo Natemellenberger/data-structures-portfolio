@@ -30,13 +30,18 @@ Each row represents one FBS team during one season.
 
 ## Variables
 
-### Recruiting Rank
+The five variables in the final dataset are:
 
-**Conceptual variable:** The strength of a college football team's recruiting class.
+- `year`: the college football season.
+- `team`: the name of the FBS football program.
+- `conference`: the conference in which the team competed.
+- `wins`: the team's total number of wins during that season.
+- `recruiting_rank`: the national ranking of the team's recruiting class.
 
-**Operational variable:** The team's recruiting class ranking from CollegeFootballData.
+For this analysis, the two main variables of interest are **wins** and **recruiting_rank**.
 
-A lower numerical ranking represents a stronger recruiting class.
+- **Recruiting success** is measured using `recruiting_rank`, where a lower ranking indicates a stronger recruiting class.
+- **Team performance** is measured using `wins`, where a higher number indicates greater on-field success.
 
 ### Season Wins
 
