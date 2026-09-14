@@ -23,18 +23,19 @@ In the future, I hope to continue gaining experience in sports analytics, scouti
 
 ## Featured Project
 
-<div class="project-card"> markdown="1">
+## Featured Project
 
-### College Football Recruiting and Team Performance
+<div class="project-card">
 
-**Research Question:** To what extent do higher-ranked recruiting classes predict more wins in college football?
+<h3>College Football Recruiting and Team Performance</h3>
 
-This project examines the relationship between recruiting class rankings and season wins for FBS teams from 2021–2025 using CollegeFootballData API data.
+<p><strong>Research Question:</strong> To what extent do higher-ranked recruiting classes predict more wins in college football?</p>
 
-**Skills:** Python · pandas · API Data Collection · Data Cleaning · Data Visualization
+<p>This project examines the relationship between recruiting class rankings and season wins for FBS teams from 2021–2025 using CollegeFootballData API data.</p>
 
-[View Project](projects.md)
+<p><strong>Skills:</strong> Python · pandas · API Data Collection · Data Cleaning · Data Visualization</p>
+
+<a href="projects.html">View Project</a>
 
 </div>
-
 
