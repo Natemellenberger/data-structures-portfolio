@@ -19,16 +19,16 @@ Through my coursework and hands-on experiences, I have started developing skills
 
 I also worked with USA Baseball using TrackMan and AWRE systems to collect and monitor game and player data. That experience gave me exposure to sports technology and real-time performance data collection. In addition, my previous broadcasting internships with the Durham Bulls and Holly Springs Salamanders helped me understand how statistics and player information are used in live sports environments.
 
-This portfolio documents my growth as I continue learning more about data science and sports analytics. One of my current projects examines the relationship between college football recruiting rankings and team wins using CollegeFootballData API data. Through projects like this, I hope to strengthen my technical skills while learning how to turn sports data into meaningful insights.
+This portfolio documents my growth as I continue learning more about data science and sports analytics. My current projects include analyzing the relationship between college football recruiting rankings and team wins, as well as using machine learning to predict NHL shot outcomes. Through projects like these, I hope to strengthen my technical skills while learning how to turn sports data into meaningful insights. Through projects like this, I hope to strengthen my technical skills while learning how to turn sports data into meaningful insights.
 
 In the future, I hope to continue gaining experience in sports analytics, scouting, and performance analysis while developing the technical skills needed to contribute to a professional or collegiate sports organization.
 
 
-## Featured Project
+## Projects
 
 <div class="project-card">
 
-<h3>College Football Recruiting and Team Performance</h3>
+<h3>Project 1: College Football Recruiting and Team Performance</h3>
 
 <p><strong>Research Question:</strong> To what extent do higher-ranked recruiting classes predict more wins in college football?</p>
 
@@ -36,7 +36,22 @@ In the future, I hope to continue gaining experience in sports analytics, scouti
 
 <p><strong>Skills:</strong> Python · pandas · API Data Collection · Data Cleaning · Data Visualization</p>
 
-<a href="college-football-project.html">View Project</a>
+<a href="college-football-project.html">View Project 1</a>
 
 </div>
 
+<br>
+
+<div class="project-card">
+
+<h3>Project 2: NHL Shot Outcome Prediction</h3>
+
+<p><strong>Research Question:</strong> Can the characteristics of an NHL shot predict whether the shot will result in a goal or be saved?</p>
+
+<p>This project uses 2025–2026 NHL shot-level data from MoneyPuck to predict whether a shot results in a goal or a save using Logistic Regression and Decision Tree models.</p>
+
+<p><strong>Skills:</strong> Python · pandas · scikit-learn · Data Cleaning · Data Visualization · Machine Learning · Model Evaluation</p>
+
+<a href="nhl-shot-project.html">View Project 2</a>
+
+</div>
